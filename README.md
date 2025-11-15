@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @JaidenPartheban
-- First Year Waterloo Engineering Student
+- Waterloo Engineering Student
 - Worked at Loblaws Corporation --> SHN as a data analyst/Automation developer
 - Working at RBC --> As a data engineer
